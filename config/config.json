@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "sql3751910",
-    "password": "lfqQ7DbMRW",
-    "database": "sql3751910",
-    "host": "sql3.freesqldatabase.com",
+    "username": "dungeonbud_remarkable",
+    "password": "fd5ecf43cde93b43c1476112e221db5657dda610",
+    "database": "dungeonbud_remarkable",
+    "host": "8puqy.h.filess.io",
     "dialect": "mysql"
   },
   "test": {
-    "username": "sql3751910",
-    "password": "lfqQ7DbMRW",
-    "database": "sql3751910",
-    "host": "sql3.freesqldatabase.com",
+    "username": "dungeonbud_remarkable",
+    "password": "fd5ecf43cde93b43c1476112e221db5657dda610",
+    "database": "dungeonbud_remarkable",
+    "host": "8puqy.h.filess.io",
     "dialect": "mysql"
   },
   "production": {
-    "username": "sql3751910",
-    "password": "lfqQ7DbMRW",
-    "database": "sql3751910",
-    "host": "sql3.freesqldatabase.com",
+    "username": "dungeonbud_remarkable",
+    "password": "fd5ecf43cde93b43c1476112e221db5657dda610",
+    "database": "dungeonbud_remarkable",
+    "host": "8puqy.h.filess.io",
     "dialect": "mysql"
   }
 }
